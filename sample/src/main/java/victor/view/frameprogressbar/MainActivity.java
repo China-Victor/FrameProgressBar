@@ -40,24 +40,11 @@ public class MainActivity extends AppCompatActivity {
     private void initView() {
         FrameProgressBar frameProgressBar = (FrameProgressBar) findViewById(R.id.fpb);
         Integer[] arr = {
-                R.mipmap.vol_0,
-                R.mipmap.vol_1,
-                R.mipmap.vol_2,
-                R.mipmap.vol_3,
-                R.mipmap.vol_4,
-                R.mipmap.vol_5,
-                R.mipmap.vol_6,
-                R.mipmap.vol_7,
-                R.mipmap.vol_8,
-                R.mipmap.vol_9,
-                R.mipmap.vol_10,
-                R.mipmap.vol_11,
-                R.mipmap.vol_12,
-                R.mipmap.vol_13,
-                R.mipmap.vol_14,
-                R.mipmap.vol_15
+                R.mipmap.vol_0,R.mipmap.vol_1, R.mipmap.vol_2, R.mipmap.vol_3,
+                R.mipmap.vol_4, R.mipmap.vol_5,R.mipmap.vol_6,R.mipmap.vol_7,
+                R.mipmap.vol_8,R.mipmap.vol_9,R.mipmap.vol_10,R.mipmap.vol_11,
+                R.mipmap.vol_12, R.mipmap.vol_13,R.mipmap.vol_14, R.mipmap.vol_15
         };
-
         frameProgressBar.setFrameResArray(arr);
         //设置当前进度
         //frameProgressBar.setLevel(0);

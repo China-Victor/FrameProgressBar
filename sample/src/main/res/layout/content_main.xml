@@ -15,6 +15,6 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         victor:orientation="upward"
-        android:background="@mipmap/vol_0"/>
+        android:background="@mipmap/vol_9"/>
 
 </RelativeLayout>
