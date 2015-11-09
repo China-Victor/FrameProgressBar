@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="orientation" format="integer">
+        <enum name="leftward" value="0" />
+        <enum name="upward" value="1" />
+        <enum name="rightward" value="2" />
+        <enum name="downward" value="3" />
+    </attr>
+
+    <declare-styleable name="FrameProgressBar">
+        <attr name="orientation" />
+    </declare-styleable>
+
+</resources>
