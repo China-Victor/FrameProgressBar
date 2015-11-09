@@ -5,7 +5,7 @@ FrameProgressBar 是一个显示不规则图片的进度条控件，你可以设
 会相对应的增或减。
 
 # using
-## xml
+### xml
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:victor="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
@@ -26,7 +26,7 @@ FrameProgressBar 是一个显示不规则图片的进度条控件，你可以设
 
 </RelativeLayout>
 
-## java
+### java
         FrameProgressBar frameProgressBar = (FrameProgressBar) findViewById(R.id.fpb);
         Integer[] arr = {
                 R.mipmap.vol_0,R.mipmap.vol_1, R.mipmap.vol_2, R.mipmap.vol_3,
