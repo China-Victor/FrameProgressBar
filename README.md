@@ -48,4 +48,4 @@ FrameProgressBar 是一个显示不规则图片的进度条控件，你可以设
         });
 
 # preview
-![FrameProgressBar](http://image.baidu.com/channel/listdownload?word=download&fr=detail&ie=utf8&countop=0&url=http%3A%2F%2Fg.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Ffcfaaf51f3deb48f1a0d623ef61f3a292cf578ee.jpg&image_id=29275609494&col=&tag=undefined)
+![FrameProgressBar](https://lh3.googleusercontent.com/rQSIoRJuXtWiMx3rCZpQo7kcNJXtLjIAUblD3WE6VZmWi8gurpgASHIKh_6lyfl4_asJbTCTe4zSqJy_oCBQfqVPC6wLM4P43n5s7FfafsTz2fC0jQncHnYMw-1K124EHpgJqV29AQhNnXaqHI9BSyWUqDYLQa-7uHGfKVppyZyrg7eYCUJTz3B1FamfmpAKMOi7zxM_cidZRewQ3qQMQkI8lMX9Dv-7IJwfW0XmSV__HR6rhhXiKEmcD8oy-h1pOlvVfJ2P6pBuQaAVUVdZnghMy6QUWF8DNKyvd-l68XzFTc5J2TitdbNmqgHg4sPWZBcV5tMnVNalGtsU8gU2conK2miuigrekQUdBeHQb0g8RfsBKLx_qnwOQmWDdSOGdAVQe8YnFmx3m7JbYNFN4RYOEVYG41udhid7TieJ9sdoHMYxnIKtoTka8ay4BqyMv6vbOgCdoLL_GxSx-ouZ_p04uJBBMAqHMFKa0_qct3v6ZoRrhM1uGuYjjbqoKVz-CKyxZGv_kyqkMHQJbllmlT_WZMILDi7JLzbFSWutJw=w411-h760-no)
