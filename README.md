@@ -48,4 +48,4 @@ FrameProgressBar 是一个显示不规则图片的进度条控件，你可以设
         });
 
 # preview
-![FrameProgressBar](http://c.picphotos.baidu.com/album/s%3D550%3Bq%3D90%3Bc%3Dxiangce%2C100%2C100/sign=f5a85c137f310a55c024def1877e3294/aec379310a55b319e95a449545a98226cefc17aa.jpg?referer=6c98ee450c7b020855de0bd15169&x=.jpg)
+![FrameProgressBar](http://image.baidu.com/channel/listdownload?word=download&fr=detail&ie=utf8&countop=0&url=http%3A%2F%2Fg.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Ffcfaaf51f3deb48f1a0d623ef61f3a292cf578ee.jpg&image_id=29275609494&col=&tag=undefined)
